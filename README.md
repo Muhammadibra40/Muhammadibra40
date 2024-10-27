@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrahim</h1>
-<h3 align="center">A detail-oriented Data Engineer with proficiency BI Develpment and Data Analysis</h3>
+<h3 align="center">A detail-oriented Data Engineer with proficiency in BI Develpment and Data Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadibra40&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadibra40" /> </p>
 
